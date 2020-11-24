@@ -33,22 +33,3 @@ This repository contains my personal notes on [DeepLearning.ai](https://deeplear
 • Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering and to build chatbots. Models covered include T5, BERT, transformer, reformer, and more!
 Enjoy!
 
-# Usage
-
-I share the assignment notebooks with my prefilled and from the contributors code structred as in the course Course/Week
-The assignment notebooks are subject to changes through time.
-
-# Connect with your mentors and fellow learners on Slack!
-Once you enrolled to the course, you are invited to join a slack workspace for this specialization:
-Please join the Slack workspace by going to the following link [deeplearningai-nlp.slack.com](deeplearningai-nlp.slack.com)
-This Slack workspace includes all courses of this specialization.
-# Contact Information
-- Twitter: [@IbrahimJelliti](https://twitter.com/IbrahimJelliti)
-- LinkedIn: [@ibrahimjelliti](https://www.linkedin.com/in/ibrahimjelliti/)
-- the specialization slack channel:  @ibrahim 
-# Stargazers over Time
-[![Stargazers over time](https://starchart.cc/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization.svg)](https://starchart.cc/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization)
-<br/>
-
-
-Ibrahim Jelliti © 2020
