@@ -1,7 +1,4 @@
-# My GAN Specialization repository
-[**Click on the image**](https://github.com/ijelliti/Deeplearning.ai-Generative-Adversarial-Networks-Specialization)
-[![](https://raw.githubusercontent.com/ijelliti/Deeplearning.ai-Generative-Adversarial-Networks-Specialization/master/GAN-banner.jpg)](https://github.com/ijelliti/Deeplearning.ai-Generative-Adversarial-Networks-Specialization)
-![](banner.jpg)
+
 #
 # DeepLearning.ai NLP Specialization Courses Notes
 This repository contains my personal notes on [DeepLearning.ai](https://deeplearning.ai) NLP specialization courses.
@@ -31,5 +28,5 @@ This repository contains my personal notes on [DeepLearning.ai](https://deeplear
 • Use dense and recurrent neural networks, LSTMs, GRUs, and Siamese networks in TensorFlow and Trax to perform advanced sentiment analysis, text generation, named entity recognition, and to identify duplicate questions.
 
 • Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering and to build chatbots. Models covered include T5, BERT, transformer, reformer, and more!
-Enjoy!
+
 
